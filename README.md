@@ -1,8 +1,7 @@
-### Hey! there 👋
+## Hey! there 👋
 
-- 🔭 I’m currently working on Merb Stack
-- 🌱 I’m currently learning Machine Learning
-- 💬 Ask me about Full Stack
+> I am Karan , A Computer Science Under Graduate From India. A Full Stack Developer. Currently Looking For a Progressive Organization that gives me an Opportunity to enhance my knowledge and utilize my skills towards the growth of the organisation.
+
 - 📫 How to reach me: <a href="mailto:">karanrana3095@gmail.com</a>
 - 😄 Pronouns: He/Him
 
