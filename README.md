@@ -1,6 +1,6 @@
 ## Hey! there 👋
 
-> I am Karan , A Computer Science E Under Graduate From India. A Full Stack Web Developer work on differentStack Development Stack and also learning new tech Stack with the believe in myself that I could do even more and more better. Currently Looking For a Organization with Good Work environment and work balanced environment  that gives me an Opportunity to enhance my technical and professional skills which could be utilize  towards the growth of the organisation and myself too.
+> I am Karan , A Computer Science E Under Graduate From India. A Full Stack Web Developer work on different Stack Development Stack and also learning new tech Stack with the believe in myself that I could do even more and more better. Currently Looking For a Organization with Good Work environment and work balanced environment  that gives me an Opportunity to enhance my technical and professional skills which could be utilize  towards the growth of the organisation and myself too.
 
 - 📫 How to reach me: <a href="mailto:">karanrana3095@gmail.com</a>
 - 😄 Pronouns: He/Him
